@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Tuomo\documents\visual studio 2015\Projects\GPS1\GPS1\bin\x86\Release\Upload\GPS1_1.11.7.0_x86.appx
+SymbolPackage=C:\Users\Tuomo\documents\visual studio 2015\Projects\GPS1\GPS1\AppPackages\GPS1_1.11.7.0\GPS1_1.11.7.0_x86.appxsym
